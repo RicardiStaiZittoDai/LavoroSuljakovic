@@ -15,7 +15,9 @@ Attributi:
 - `prezzo`: prezzo del prodotto
 - `quantita`: quantità disponibile in magazzino
 - `descrizione`: breve descrizione del prodotto
-Classe Vendita
+- `dataDiProduzione`: data di produzione del prodotto (LocalDate)
+
+### Classe Vendita
 La classe `Vendita` rappresenta una singola transazione di vendita nel negozio.
 
 Attributi:
